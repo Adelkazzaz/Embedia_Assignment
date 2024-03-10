@@ -1,2 +1,2 @@
-# -Embedia_Assignment
+# Embedia_Assignment
 Tasks of Embedded system internship with Embedia
